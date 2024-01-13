@@ -22,10 +22,10 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=meenakshiiyer2531&count_private=true&show_icons=true&theme=algolia">
 </div>
-<!-- My Contribution on Github  -->
-<div align="center">
+<!-- <!-- My Contribution on Github  -->
+<!-- <div align="center">
 <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=meenakshiiyer2531&theme=dracula&bg_color=000000&hide_border=true">
-</div>
+</div> --> -->
 <!-- Streaks Stats on my github -->
 <div align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=meenakshiiyer2531&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="meenakshiiyer2531_Github"/>
