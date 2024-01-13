@@ -1,13 +1,14 @@
 <p align="center">
-<img src="https://img.freepik.com/free-vector/female-programmer-working-computer-night_107791-19637.jpg?w=1380&t=st=1705123046~exp=1705123646~hmac=0070a1bc2a641ba9dba26d043e5df74735da8066be393fcedfca9e1224b5d0d2" />
-<b>WELCOME TO MY GITHUB PROFILE </b>
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="700">
+  <br><br>
+<h1 align="center">WELCOME TO MY GITHUB PROFILE </h1>
 </p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 
 
 
-<h1 align="center">Hi 👋, I'm V Meenakshi Iyer</h1>
+<h2 align="center">Hi 👋, I'm V Meenakshi Iyer</h2>
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a++Student;I'm+a+Coder;I'm+a++Learner"/>
 </div>
