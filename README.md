@@ -10,7 +10,7 @@
 
 <h2 align="center">Hi 👋, I'm V Meenakshi Iyer</h2>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a++Student;I'm+a+Coder;I'm+a++Learner"/>
+  <img align="center" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a++Student;I'm+a+Coder;I'm+a++Learner;I'm+a++MERN++Stack++Developer;I'm+a++Android++App++Developer;I'm+a++UI++UX++Designer"/>
 </div>
 <h3 align="center">I am a highly motivated and adaptable professional with a strong educational background in accounting and hands-on experience in software development. I am eager to integrate my expertise in accounting, web, and app development, alongside effective communication, to drive innovation and enhance operational efficiency within your organization. My commitment to continuous learning and collaboration in diverse teams positions me as a valuable asset, ready to support your company's objectives and contribute to its success. I aspire to leverage my accounting skills and computer science expertise to deliver pioneering solutions, catalyze efficiency, and drive growth. I am excited to join a forward-thinking organization, where I can apply my development and project management capabilities to optimize operational effectiveness and fuel the achievement of strategic goals and innovation initiatives.</h3>
 
