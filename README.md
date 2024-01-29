@@ -15,7 +15,7 @@
 <h3 align="center">I am a highly motivated and adaptable professional with a strong educational background in accounting and hands-on experience in software development. I am eager to integrate my expertise in accounting, web, and app development, alongside effective communication, to drive innovation and enhance operational efficiency within your organization. My commitment to continuous learning and collaboration in diverse teams positions me as a valuable asset, ready to support your company's objectives and contribute to its success. I aspire to leverage my accounting skills and computer science expertise to deliver pioneering solutions, catalyze efficiency, and drive growth. I am excited to join a forward-thinking organization, where I can apply my development and project management capabilities to optimize operational effectiveness and fuel the achievement of strategic goals and innovation initiatives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshiiyer2531&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshiiyer2531" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenakshiiyer2531" alt="meenakshiiyer2531" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack, Native Android App dev and UI UX Designing**
@@ -28,14 +28,14 @@
 
 - 📫 How to reach me **vmeenakshi122002@gmail.com**
 
-- <!-- My Stats On Github  -->
+ <!-- My Stats On Github  -->
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=meenakshiiyer2531&count_private=true&show_icons=true&theme=algolia">
 </div>
 <!-- <!-- My Contribution on Github  -->
 <!-- <div align="center">
 <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=meenakshiiyer2531&theme=dracula&bg_color=000000&hide_border=true">
-</div> --> -->
+</div> --> 
 <!-- Streaks Stats on my github -->
 <div align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=meenakshiiyer2531&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="meenakshiiyer2531_Github"/>
