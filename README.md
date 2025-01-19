@@ -36,10 +36,11 @@
 <!-- <div align="center">
 <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=meenakshiiyer2531&theme=dracula&bg_color=000000&hide_border=true">
 </div> --> 
-<!-- Streaks Stats on my github -->
+<!-- Streaks Stats on my github 
 <div align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=meenakshiiyer2531&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="meenakshiiyer2531_Github"/>
 </div>
+-->
 <!-- Most Language Used -->
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshiiyer2531&show_icons=true&layout=compact&theme=algolia">
